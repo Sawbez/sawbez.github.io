@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Sawbez
+url: https://sawbez.github.io/sawbez
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,9 +32,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Sawbez
+  url: https://github.com/Sawbez
+  email: sawbez@users.noreply.github.com
 
 # Custom vars
 version: 3.0.0
