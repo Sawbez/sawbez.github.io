@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-26-05
+date: 2022-05-26
 title: "My First Post"
 mathjax: true
 ---
