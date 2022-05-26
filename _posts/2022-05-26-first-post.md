@@ -10,9 +10,9 @@ I made this blog because I want to write about some of the cool things I find ou
 -----
 This blog is mainly about a couple things:
 
-- Programming
-- Math
-- Science
-- The internet
+- Programming 10111010010011
+- Math $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+- Science C<sub>2</sub>H<sub>6</sub>
+- The internet 🌐
 
 Of course I'll occasionally talk about other things too, but those are the main things I want to cover.
