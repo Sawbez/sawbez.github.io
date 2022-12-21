@@ -5,6 +5,9 @@ title: "A Deep Look Into Large Numbers"
 mathjax: true
 ---
 
+*Archived* This post is archived as it is broken and old.
+{: .message}
+
 When you think of big numbers, what comes to mind? A million? A billion? A googol? or something bigger?
 In this post I would like to give you an overview of some big numbers, and some explaination on how we got these big numbers.
 **NOTE: My posts will typically not be this long and in depth**
