@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 date: 2022-12-21
 title: "Rustlings: An awesome start to Rust"
